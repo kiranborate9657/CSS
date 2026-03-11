@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.gallery{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 10px;
+}
+
+.gallery img{
+width: 100%;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="gallery">
+<img src="photo1.jpg">
+<img src="photo2.jpg">
+<img src="photo3.jpg">
+<img src="photo4.jpg">
+<img src="photo5.jpg">
+<img src="photo6.jpg">
+</div>
+
+</body>
+</html>
