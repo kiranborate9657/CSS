@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.card{
+width: 300px;
+border: 1px solid gray;
+padding: 20px;
+box-shadow: 0px 0px 10px gray;
+margin: 50px auto;
+text-align: center;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="card">
+<h2>Photography Studio</h2>
+<p>Professional photo editing and shooting.</p>
+</div>
+
+</body>
+</html>
