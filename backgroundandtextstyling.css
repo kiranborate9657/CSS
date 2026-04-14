@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    font-family: Arial;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Background and Text Styling</h1>
+
+<p>This paragraph has styled text.</p>
+
+</body>
+</html>
