@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Types Example</title>
+
+    <!-- Internal CSS -->
+    <style>
+        body {
+            background-color: lightyellow;
+        }
+    </style>
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1 style="color: red;">Welcome to CSS</h1>
+
+</body>
+</html>
