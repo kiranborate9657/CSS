@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  color: blue;
+}
+
+#para {
+  color: red;
+}
+
+.text {
+  color: green;
+}
+</style>
+</head>
+
+<body>
+
+<p id="para" class="text">
+Hello CSS Specificity
+</p>
+
+</body>
+</html>
