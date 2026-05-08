@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+    background:lightblue;
+}
+
+@media screen and (max-width:600px){
+
+body{
+    background:lightgreen;
+}
+
+}
+</style>
+</head>
+<body>
+
+<h1>Responsive Design</h1>
+
+</body>
+</html>
